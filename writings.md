@@ -9,8 +9,7 @@
 
   Forthcoming in _Australasian Journal of Logic_.
   
-* "A Structural Tonk"
-  
+* "A Structural Tonk"\\  
   _Analysis_, 2023.
   
 * "Recapture Results and Classical Logic" (with Lucas Rosentblatt)
